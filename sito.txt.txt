@@ -1,9 +1,9 @@
- Titolo: Portale dei Servizi
+ Titolo: Sito Web Ufficiale
  Autore: Andrea Sassi
  Versione: 0.1
  Descrizione: progetto di test
 
- SERVIZI ---
+SERVIZI ---
  - Web Design
  - Sviluppo App
  - Consulenza IT
