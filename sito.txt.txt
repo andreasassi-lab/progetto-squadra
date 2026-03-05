@@ -12,3 +12,5 @@ SERVIZI ---
  Email: info@sito.it
  Tel: 011-0000000
  Indirizzo: Torino
+
+Copyright: 2026
