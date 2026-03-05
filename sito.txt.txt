@@ -2,3 +2,8 @@
  Autore: Andrea Sassi
  Versione: 0.1
  Descrizione: progetto di test
+
+-- CONTATTI ---
+ Email: info@sito.it
+ Tel: 011-0000000
+ Indirizzo: Torino
