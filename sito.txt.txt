@@ -3,8 +3,13 @@
  Versione: 0.1
  Descrizione: progetto di test
 
-
  SERVIZI ---
  - Web Design
  - Sviluppo App
  - Consulenza IT
+
+-- CONTATTI ---
+ Email: info@sito.it
+ Tel: 011-0000000
+ Indirizzo: Torino
+
